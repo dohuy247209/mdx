@@ -1,0 +1,1688 @@
+# CÁC PHẢN ỨNG BỔ SUNG CỦA KIM LOẠI VÀ HỢP CHẤT CHỨA KIM LOẠI
+
+*(Tài liệu độc lập – dùng để bổ sung cho tài liệu “TỔNG HỢP LÝ THUYẾT VÀ CÁC DẠNG PHẢN ỨNG CHƯƠNG KIM LOẠI”)*
+
+---
+
+## 0. TÀI LIỆU NÀY BỔ SUNG ĐIỀU GÌ?
+
+Tài liệu gốc đã trình bày khá đầy đủ các trục chính như:
+
+* tính chất chung của kim loại và dãy điện hóa;
+* kim loại tác dụng với phi kim, acid, dung dịch muối;
+* nhiệt luyện oxide kim loại;
+* nhiệt phân nitrate và carbonate;
+* điện phân nóng chảy, điện phân dung dịch;
+* ăn mòn kim loại;
+* tư duy chất khử – chất oxi hóa và phản ứng nối tiếp.
+
+Vì vậy, tài liệu này **không cố lặp lại các nội dung đó**, mà chuyển sang các vùng thường xuất hiện rải rác trong các bài tập về kim loại và hợp chất của kim loại:
+
+1. **Đốt/cháy kim loại và nung quặng sulfide** – đặc biệt là pyrite $\mathrm{FeS_2}$.
+2. **Phản ứng của oxide, hydroxide kim loại với nước, acid, base và oxide acid**.
+3. **Tính lưỡng tính và sự hòa tan kết tủa trong base/acid dư**.
+4. **Thủy phân ion kim loại và tính acid của dung dịch muối**.
+5. **Phản ứng tạo kết tủa của các ion kim loại**.
+6. **Hóa học đặc trưng của chloride: kết tủa halide, tạo phức, biến đổi màu**.
+7. **Kết tủa sulfide và ý tưởng “độ tan phụ thuộc môi trường”**.
+8. **Oxi hóa – khử giữa các ion kim loại**, không cần có kim loại đơn chất ban đầu.
+9. **Phức chất của Ag, Cu, Fe, Zn, Al** và vai trò của ligand.
+10. **Carbide, nitride, hydride kim loại tác dụng với nước**.
+11. **Nhiệt phân hydroxide và một số muối khác ngoài nitrate/carbonate**.
+12. **CO$_2$/SO$_2$ tác dụng với hợp chất kim loại** và các hiện tượng có ý nghĩa trong đời sống.
+
+> **Ý tưởng thống nhất:** đừng chỉ hỏi “chất A gặp chất B tạo gì?”. Hãy hỏi **liên kết nào bị phá, hạt nào nhận/nhường electron, sản phẩm nào được môi trường làm bền, và có phản ứng tiếp theo kéo hệ đi xa hơn không**.
+
+---
+
+# I. ĐỐT CHÁY KIM LOẠI: CÙNG LÀ OXI NHƯNG SẢN PHẨM CÓ THỂ KHÁC NHAU
+
+## 1. “Đốt kim loại” thực chất là gì?
+
+Trong nhiều bài phổ thông, “đốt kim loại” có nghĩa là cho kim loại phản ứng với $\mathrm{O_2}$ khi cung cấp đủ năng lượng để phản ứng xảy ra nhanh.
+
+Về bản chất electron:
+
+$$
+\mathrm{M \rightarrow M^{n+}+ne}
+$$
+
+và oxygen bị khử:
+
+$$
+\mathrm{O_2+4e\rightarrow2O^{2-}}
+$$
+
+Sau đó các ion sắp xếp thành oxide.
+
+Vì vậy, “cháy” ở đây vẫn là **một quá trình oxi hóa – khử**.
+
+---
+
+## 2. Một số ví dụ điển hình
+
+### Magnesium
+
+$$
+\mathrm{2Mg+O_2\xrightarrow{t^\circ}2MgO}
+$$
+
+Mg bị oxi hóa từ $0$ lên $+2$.
+
+### Aluminum
+
+$$
+\mathrm{4Al+3O_2\rightarrow2Al_2O_3}
+$$
+
+Al bị oxi hóa lên $+3$.
+
+Tuy nhiên, Al đáng chú ý vì oxide tạo thành rất bền và có thể tạo lớp bảo vệ trên bề mặt ở điều kiện thích hợp.
+
+### Copper
+
+$$
+\mathrm{2Cu+O_2\xrightarrow{t^\circ}2CuO}
+$$
+
+Ở đây Cu đi từ $0$ lên $+2$ trong oxide được biểu diễn.
+
+### Iron
+
+Tùy điều kiện, Fe có thể cho nhiều oxide:
+
+$$
+\mathrm{3Fe+2O_2\rightarrow Fe_3O_4}
+$$
+
+hoặc
+
+$$
+\mathrm{4Fe+3O_2\rightarrow2Fe_2O_3}
+$$
+
+Do đó câu “đốt Fe luôn cho Fe$_2$O$_3$” là quá đơn giản hóa.
+
+---
+
+## 3. Vì sao cùng O$_2$ mà có nhiều oxide?
+
+Có ít nhất ba yếu tố cần tách ra:
+
+* số oxi hóa nào của kim loại được ổn định trong điều kiện ấy;
+* nhiệt độ và mức độ cung cấp oxygen;
+* oxide ban đầu có tiếp tục bị oxi hóa hay biến đổi hay không.
+
+Ví dụ về tư duy phản ứng nối tiếp:
+
+$$
+\mathrm{Fe\rightarrow Fe^{2+}\rightarrow Fe^{3+}}
+$$
+
+Nếu môi trường đủ oxi hóa, sản phẩm chứa Fe(III) có thể trở nên ưu thế hơn.
+
+> **Điểm cần nhớ:** sự tồn tại của nhiều oxide là một biểu hiện của việc **nhiều trạng thái oxi hóa có thể cạnh tranh**.
+
+---
+
+# II. TỪ “ĐỐT” KIM LOẠI ĐẾN “NUNG QUẶNG”: SULFIDE VÀ PYRITE
+
+## 1. Nung quặng sulfide là một dạng phản ứng rất quan trọng
+
+Trong luyện kim, nhiều quặng sulfide được nung trong oxygen. Có thể xem sơ đồ khái quát:
+
+$$
+\mathrm{MS_x+O_2\xrightarrow{t^\circ}MO+SO_2}
+$$
+
+Đây không đơn thuần là “cháy sulfur”. Kim loại và sulfur **đều có thể thay đổi số oxi hóa**.
+
+---
+
+## 2. ZnS
+
+Một phương trình mô hình:
+
+$$
+\mathrm{2ZnS+3O_2\xrightarrow{t^\circ}2ZnO+2SO_2}
+$$
+
+Phân tích số oxi hóa:
+
+* Zn: $+2\rightarrow+2$;
+* S trong sulfide: $-2\rightarrow+4$;
+* O: $0\rightarrow-2$.
+
+Vậy sulfur bị oxi hóa, oxygen bị khử.
+
+---
+
+## 3. FeS$_2$ – pyrite
+
+Pyrite thường được biểu diễn bởi:
+
+$$
+\mathrm{4FeS_2+11O_2\xrightarrow{t^\circ}2Fe_2O_3+8SO_2}
+$$
+
+Đây là một phản ứng rất đáng học vì nó cho thấy cách một hợp chất có thể bị “tách ý” khi phân tích redox.
+
+Trong pyrite, có thể xem:
+
+* Fe ở mức $+2$;
+* nhóm $\mathrm{S_2^{2-}}$ chứa mỗi S ở mức trung bình $-1$.
+
+Trong sản phẩm:
+
+* Fe đi lên $+3$;
+* S đi từ $-1$ lên $+4$;
+* oxygen nhận electron.
+
+Do đó **cả Fe và S đều bị oxi hóa**, còn oxygen là chất nhận electron.
+
+Đây là một ví dụ hữu ích để phá vỡ thói quen “chỉ một nguyên tố bị oxi hóa”.
+
+---
+
+## 4. PbS
+
+Có thể gặp mô hình:
+
+$$
+\mathrm{2PbS+3O_2\xrightarrow{t^\circ}2PbO+2SO_2}
+$$
+
+Pb vẫn ở $+2$, còn S bị oxi hóa mạnh.
+
+---
+
+## 5. Sulfide không phải lúc nào cũng chỉ có “S$^{2-}$”
+
+Đây là một điểm đặc biệt quan trọng.
+
+* Trong $\mathrm{S^{2-}}$, sulfur có số oxi hóa $-2$.
+* Trong nhóm disulfide của $\mathrm{FeS_2}$, có thể xem mỗi S ở mức $-1$.
+
+Do đó, nhìn công thức $\mathrm{FeS_2}$ rồi áp dụng máy móc “S luôn $-2$” sẽ làm sai phân tích redox.
+
+---
+
+# III. OXIDE KIM LOẠI + NƯỚC: MỘT NHÓM PHẢN ỨNG RẤT KHÁC NHIỆT LUYỆN
+
+Tài liệu gốc đã tập trung vào **khử oxide thành kim loại**. Ở đây ta xét chiều ngược lại: oxide gặp nước hoặc gặp acid/base.
+
+## 1. Oxide của kim loại rất hoạt động có thể tạo hydroxide
+
+Ví dụ:
+
+$$
+\mathrm{Na_2O+H_2O\rightarrow2NaOH}
+$$
+
+$$
+\mathrm{K_2O+H_2O\rightarrow2KOH}
+$$
+
+$$
+\mathrm{CaO+H_2O\rightarrow Ca(OH)_2}
+$$
+
+Điểm cốt lõi:
+
+> Oxide ion của kim loại hoạt động có thể xem như một “nguồn $\mathrm{O^{2-}}$”. Trong nước, quá trình này cuối cùng dẫn đến hydroxide.
+
+---
+
+## 2. Không phải oxide kim loại nào cũng phản ứng với nước
+
+Ví dụ CuO không thể chỉ áp dụng quy tắc “oxide kim loại + nước → base”. CuO không phản ứng đáng kể với nước ở điều kiện thường theo mô hình phổ thông đó.
+
+Điều này giúp phân biệt:
+
+$$
+\boxed{\text{oxide có tính base}}\neq\boxed{\text{oxide nào cũng tạo hydroxide với nước}}
+$$
+
+---
+
+# IV. OXIDE KIM LOẠI + ACID
+
+## 1. Đây là phản ứng acid–base, không nhất thiết là redox
+
+Ví dụ:
+
+$$
+\mathrm{CuO+2HCl\rightarrow CuCl_2+H_2O}
+$$
+
+Không cần chuyển số oxi hóa:
+
+* Cu vẫn $+2$;
+* Cl vẫn $-1$;
+* H và O tạo nước.
+
+Vì vậy, không phải mọi phản ứng “liên quan đến kim loại” đều là oxi hóa – khử.
+
+---
+
+## 2. Một số oxide khác
+
+$$
+\mathrm{Fe_2O_3+6HCl\rightarrow2FeCl_3+3H_2O}
+$$
+
+$$
+\mathrm{MgO+2HCl\rightarrow MgCl_2+H_2O}
+$$
+
+$$
+\mathrm{ZnO+2HCl\rightarrow ZnCl_2+H_2O}
+$$
+
+---
+
+## 3. Phân biệt “oxide kim loại + acid” với “kim loại + acid”
+
+Hai phản ứng có bề ngoài giống nhau nhưng bản chất khác:
+
+### Kim loại + acid không oxi hóa mạnh
+
+$$
+\mathrm{M+H^+\rightarrow M^{n+}+H_2}
+$$
+
+Có redox.
+
+### Oxide kim loại + acid
+
+$$
+\mathrm{MO+2H^+\rightarrow M^{2+}+H_2O}
+$$
+
+Có thể xảy ra đơn giản như một phản ứng acid–base; không nhất thiết có electron chuyển giữa các nguyên tố.
+
+---
+
+# V. OXIDE LƯỠNG TÍNH: KHÔNG CHỈ “TÁC DỤNG ĐƯỢC CẢ ACID LẪN BASE”
+
+## 1. Ý tưởng bản chất
+
+Một oxide lưỡng tính có thể phản ứng theo cả hai hướng acid–base tùy môi trường.
+
+Ví dụ điển hình:
+
+$$
+\mathrm{Al_2O_3}
+$$
+
+và
+
+$$
+\mathrm{ZnO}
+$$
+
+---
+
+## 2. Al$_2$O$_3$ với acid
+
+$$
+\mathrm{Al_2O_3+6HCl\rightarrow2AlCl_3+3H_2O}
+$$
+
+---
+
+## 3. Al$_2$O$_3$ với base
+
+Một cách biểu diễn theo phức hydroxide:
+
+$$
+\mathrm{Al_2O_3+2OH^-+3H_2O\rightarrow2[Al(OH)_4]^-}
+$$
+
+Nếu dùng NaOH:
+
+$$
+\mathrm{Al_2O_3+2NaOH+3H_2O\rightarrow2Na[Al(OH)_4]}
+$$
+
+---
+
+## 4. ZnO với acid
+
+$$
+\mathrm{ZnO+2HCl\rightarrow ZnCl_2+H_2O}
+$$
+
+---
+
+## 5. ZnO với base
+
+$$
+\mathrm{ZnO+2OH^-+H_2O\rightarrow[Zn(OH)_4]^{2-}}
+$$
+
+Do đó, cùng một oxide có thể “tan” trong hai môi trường rất khác nhau.
+
+> **Câu hỏi nên đặt:** oxide đang đóng vai trò gì trong môi trường này? Nó đang nhận proton, nhường proton, hay tạo một phức bền?
+
+---
+
+# VI. HYDROXIDE KIM LOẠI: KẾT TỦA → HÒA TAN → PHỨC
+
+## 1. Tạo hydroxide từ ion kim loại
+
+Các ion kim loại có thể tạo kết tủa hydroxide khi thêm $\mathrm{OH^-}$:
+
+$$
+\mathrm{Fe^{3+}+3OH^-\rightarrow Fe(OH)_3\downarrow}
+$$
+
+$$
+\mathrm{Fe^{2+}+2OH^-\rightarrow Fe(OH)_2\downarrow}
+$$
+
+$$
+\mathrm{Cu^{2+}+2OH^-\rightarrow Cu(OH)_2\downarrow}
+$$
+
+$$
+\mathrm{Mg^{2+}+2OH^-\rightarrow Mg(OH)_2\downarrow}
+$$
+
+$$
+\mathrm{Al^{3+}+3OH^-\rightarrow Al(OH)_3\downarrow}
+$$
+
+---
+
+## 2. Màu sắc không phải phần “trang trí”
+
+Một số màu đặc trưng thường dùng trong nhận biết:
+
+| Hydroxide           | Hiện tượng thường gặp                                   |
+| :------------------ | :------------------------------------------------------ |
+| $\mathrm{Fe(OH)_3}$ | nâu đỏ                                                  |
+| $\mathrm{Fe(OH)_2}$ | trắng xanh/xanh lục nhạt, dễ bị oxi hóa trong không khí |
+| $\mathrm{Cu(OH)_2}$ | xanh lam                                                |
+| $\mathrm{Al(OH)_3}$ | trắng                                                   |
+| $\mathrm{Zn(OH)_2}$ | trắng                                                   |
+| $\mathrm{Mg(OH)_2}$ | trắng                                                   |
+
+Màu sắc thường là hệ quả của cấu trúc electron và trạng thái hóa học của chất; không nên biến chúng thành danh sách học thuộc tách rời.
+
+---
+
+## 3. Al(OH)$_3$: tại sao kết tủa có thể biến mất?
+
+Ban đầu:
+
+$$
+\mathrm{Al^{3+}+3OH^-\rightarrow Al(OH)_3\downarrow}
+$$
+
+Nếu tiếp tục thêm $\mathrm{OH^-}$, kết tủa có thể tan do tạo phức:
+
+$$
+\mathrm{Al(OH)_3+OH^-\rightarrow[Al(OH)_4]^-}
+$$
+
+Vì vậy cần phân biệt hai “giai đoạn”:
+
+$$
+\boxed{\text{tạo kết tủa}}
+\qquad\longrightarrow\qquad
+\boxed{\text{hòa tan trong kiềm dư}}
+$$
+
+---
+
+## 4. Zn(OH)$_2$ cũng lưỡng tính
+
+Trong acid:
+
+$$
+\mathrm{Zn(OH)_2+2H^+\rightarrow Zn^{2+}+2H_2O}
+$$
+
+Trong base:
+
+$$
+\mathrm{Zn(OH)_2+2OH^-\rightarrow[Zn(OH)_4]^{2-}}
+$$
+
+Đây là một ví dụ đẹp để thấy “lưỡng tính” không chỉ thuộc về oxide.
+
+---
+
+# VII. CO$_2$ VÀ OXIDE/HYDROXIDE KIM LOẠI: HỆ CÓ THỂ ĐI THEO HAI CHIỀU
+
+## 1. Nước vôi trong và CO$_2$
+
+$$
+\mathrm{Ca(OH)_2+CO_2\rightarrow CaCO_3\downarrow+H_2O}
+$$
+
+Kết tủa $\mathrm{CaCO_3}$ làm dung dịch đục.
+
+---
+
+## 2. CO$_2$ dư: kết tủa có thể tan lại
+
+Nếu tiếp tục có CO$_2$:
+
+$$
+\mathrm{CaCO_3+CO_2+H_2O\rightarrow Ca(HCO_3)_2}
+$$
+
+Sản phẩm tan được trong nước theo mô hình phổ thông.
+
+Do đó hiện tượng có thể là:
+
+$$
+\boxed{\text{trong}\rightarrow\text{đục}\rightarrow\text{trong}
+}
+$$
+
+nếu CO$_2$ tiếp tục được đưa vào.
+
+Đây là một ví dụ rất điển hình của **phản ứng nối tiếp làm sản phẩm quan sát được thay đổi**.
+
+---
+
+## 3. Tại sao điều này có ý nghĩa ngoài phòng thí nghiệm?
+
+Quá trình hòa tan – kết tủa của các carbonate/hydrogencarbonate góp phần vào nhiều hiện tượng địa chất tự nhiên liên quan đến nước chứa CO$_2$ và đá carbonate.
+
+Ở đây, điều đáng học không phải chỉ là phương trình mà là mô hình:
+
+$$
+\text{carbonate rắn}
+\rightleftharpoons
+\text{dạng hydrogencarbonate tan}
+$$
+
+---
+
+# VIII. SO$_2$ VỚI HỢP CHẤT CỦA KIM LOẠI
+
+SO$_2$ là oxide acid. Vì vậy nó có thể phản ứng với base hoặc oxide base của kim loại.
+
+## 1. Với CaO
+
+$$
+\mathrm{CaO+SO_2\rightarrow CaSO_3}
+$$
+
+Đây là một phản ứng acid–base/ghép ion, không cần hiểu như một phản ứng “kim loại nhường electron”.
+
+---
+
+## 2. Với Ca(OH)$_2$
+
+$$
+\mathrm{Ca(OH)_2+SO_2\rightarrow CaSO_3\downarrow+H_2O}
+$$
+
+---
+
+## 3. Khi chất oxi hóa mạnh xuất hiện
+
+Sulfur trong SO$_2$ đang ở $+4$, nên nó **có thể bị oxi hóa tiếp** lên mức cao hơn.
+
+Ví dụ về mặt ý tưởng:
+
+$$
+\mathrm{S^{+4}\rightarrow S^{+6}}
+$$
+
+Do đó SO$_2$ có thể vừa thể hiện tính khử, vừa tham gia các phản ứng khác nhau tùy chất đối tác.
+
+> Đây là ví dụ cho nguyên tắc: **tính oxi hóa/khử là quan hệ giữa hai chất, không phải “nhãn cố định” gắn với một chất trong mọi hoàn cảnh.**
+
+---
+
+# IX. THỦY PHÂN CỦA ION KIM LOẠI: VÌ SAO MỘT SỐ DUNG DỊCH MUỐI CÓ TÍNH ACID?
+
+## 1. Không phải mọi muối tan đều tạo dung dịch trung tính
+
+Ví dụ các ion kim loại có điện tích lớn như $\mathrm{Al^{3+}}$, $\mathrm{Fe^{3+}}$ có thể tương tác mạnh với nước.
+
+Một cách biểu diễn đơn giản:
+
+$$
+\mathrm{Al^{3+}+H_2O\rightleftharpoons AlOH^{2+}+H^+}
+$$
+
+Tương tự:
+
+$$
+\mathrm{Fe^{3+}+H_2O\rightleftharpoons FeOH^{2+}+H^+}
+$$
+
+Các bước tiếp theo có thể tiếp tục xảy ra ở mức độ khác nhau.
+
+---
+
+## 2. Ý nghĩa của hiện tượng
+
+Khi ion kim loại “kéo” mật độ electron về phía mình, liên kết O–H trong nước có thể bị phân cực mạnh hơn, khiến việc giải phóng $\mathrm{H^+}$ trở nên dễ dàng hơn.
+
+Vì vậy:
+
+$$
+\boxed{\text{ion kim loại nhỏ + điện tích lớn}\ \Rightarrow\ \text{tương tác với nước mạnh hơn}}
+$$
+
+Đây là một cách hiểu định tính; không nên biến thành một quy tắc số học tuyệt đối cho mọi ion.
+
+---
+
+# X. PHẢN ỨNG KẾT TỦA GIỮA CÁC ION KIM LOẠI VÀ ANION
+
+## 1. Ý tưởng chung
+
+Một phản ứng ion có thể xảy ra mạnh khi tạo được:
+
+* chất kết tủa ít tan;
+* khí;
+* chất điện li yếu như nước;
+* hoặc phức chất bền.
+
+Với kim loại, kết tủa là một trong những cơ chế quan trọng nhất.
+
+---
+
+## 2. Chloride
+
+$$
+\mathrm{Ag^++Cl^-\rightarrow AgCl\downarrow}
+$$
+
+$$
+\mathrm{Pb^{2+}+2Cl^-\rightarrow PbCl_2\downarrow}
+$$
+
+Trong đó AgCl là ví dụ rất quan trọng vì còn có hóa học phức tiếp theo.
+
+---
+
+## 3. Iodide
+
+$$
+\mathrm{Pb^{2+}+2I^-\rightarrow PbI_2\downarrow}
+$$
+
+Kết tủa PbI$_2$ có màu vàng đặc trưng.
+
+---
+
+## 4. Hydroxide
+
+Như ở phần trước:
+
+$$
+\mathrm{M^{n+}+nOH^-\rightarrow M(OH)_n\downarrow}
+$$
+
+nhưng với ion lưỡng tính, đây có thể chỉ là **bước đầu tiên**.
+
+---
+
+# XI. HÓA HỌC CỦA CHLORIDE: TỪ KẾT TỦA ĐẾN PHỨC
+
+## 1. AgCl không chỉ là “kết tủa trắng”
+
+Ban đầu:
+
+$$
+\mathrm{Ag^++Cl^-\rightarrow AgCl\downarrow}
+$$
+
+Nếu gặp ammonia, có thể tạo phức bạc–ammonia hòa tan.
+
+Biểu diễn ion rút gọn:
+
+$$
+\mathrm{AgCl+2NH_3\rightleftharpoons[Ag(NH_3)_2]^++Cl^-}
+$$
+
+Điểm quan trọng là: **kết tủa biến mất không có nghĩa AgCl “không tồn tại”; cân bằng đã được kéo về phía dạng phức tan.**
+
+---
+
+## 2. AgCl, AgBr, AgI: không nên học như ba phản ứng độc lập
+
+Cả ba có cùng mô hình kết tủa:
+
+$$
+\mathrm{Ag^++X^-\rightarrow AgX\downarrow}
+$$
+
+nhưng độ tan khác nhau.
+
+Vì vậy, một phép thử có thể phân biệt chúng nhờ việc tạo phức và khả năng hòa tan khác nhau trong ammonia.
+
+Mô hình định tính thường dùng:
+
+* AgCl: dễ hòa tan hơn trong ammonia loãng;
+* AgBr: cần điều kiện ammonia mạnh hơn;
+* AgI: rất khó hòa tan theo mô hình thử bằng ammonia.
+
+---
+
+## 3. Vì sao tạo phức có thể làm kết tủa tan?
+
+Xét cân bằng:
+
+$$
+\mathrm{Ag^++Cl^-\rightleftharpoons AgCl(s)}
+$$
+
+Nếu ammonia liên tục “giữ” Ag$^+$ dưới dạng:
+
+$$
+\mathrm{[Ag(NH_3)_2]^+}
+$$
+
+thì nồng độ Ag$^+$ tự do giảm.
+
+Khi đó cân bằng hòa tan của AgCl bị kéo theo nguyên lý Le Chatelier.
+
+Đây là một ví dụ rất đẹp về sự kết hợp của:
+
+$$
+\boxed{\text{độ tan + cân bằng phức + cân bằng ion}}
+$$
+
+---
+
+# XII. PHỨC CHẤT CỦA KIM LOẠI: MỘT “LOẠI PHẢN ỨNG” CẦN TÁCH RIÊNG
+
+## 1. Vì sao phức chất xuất hiện?
+
+Ion kim loại chuyển tiếp thường có thể nhận cặp electron từ các phân tử/ion có cặp electron tự do, gọi chung là **ligand**.
+
+Ví dụ $\mathrm{NH_3}$ có cặp electron tự do trên N.
+
+Một cách viết đơn giản:
+
+$$
+\mathrm{Cu^{2+}+4NH_3\rightleftharpoons[Cu(NH_3)_4]^{2+}}
+$$
+
+Phức này thường liên quan đến màu xanh lam đậm đặc trưng trong dung dịch chứa Cu(II) và ammonia dư.
+
+---
+
+## 2. Fe$^{3+}$ và thiocyanate
+
+Một ví dụ nhận biết ion Fe(III):
+
+$$
+\mathrm{Fe^{3+}+SCN^-\rightleftharpoons[FeSCN]^{2+}}
+$$
+
+Sự tạo thành phức có màu đặc trưng giúp nhận biết Fe(III) trong hóa phân tích định tính.
+
+Ở đây, không có kim loại Fe đơn chất nào xuất hiện; “kim loại” chỉ tồn tại dưới dạng ion trong phức.
+
+---
+
+## 3. Ag$^+$ và ammonia
+
+$$
+\mathrm{Ag^++2NH_3\rightleftharpoons[Ag(NH_3)_2]^+}
+$$
+
+Đây là chìa khóa để hiểu tại sao AgCl có thể hòa tan trong ammonia.
+
+---
+
+## 4. Phân biệt “phản ứng tạo phức” với “phản ứng oxi hóa – khử”
+
+Ví dụ:
+
+$$
+\mathrm{Ag^++2NH_3\rightarrow[Ag(NH_3)_2]^+}
+$$
+
+không nhất thiết có thay đổi số oxi hóa của Ag.
+
+Ag vẫn được xem là $+1$ trước và sau.
+
+Do đó:
+
+$$
+\boxed{\text{tạo phức}\neq\text{redox}}
+$$
+
+---
+
+# XIII. SULFIDE KIM LOẠI: ĐỘ TAN, KẾT TỦA VÀ MÔI TRƯỜNG
+
+## 1. Sulfide của nhiều kim loại rất ít tan
+
+Ví dụ mô hình:
+
+$$
+\mathrm{M^{2+}+S^{2-}\rightarrow MS\downarrow}
+$$
+
+Một số sulfide có màu rất đặc trưng, chẳng hạn CuS màu đen.
+
+---
+
+## 2. Vì sao sulfide phụ thuộc mạnh vào môi trường?
+
+Ion $\mathrm{S^{2-}}$ là base mạnh và có thể nhận proton:
+
+$$
+\mathrm{S^{2-}+H^+\rightleftharpoons HS^-}
+$$
+
+$$
+\mathrm{HS^-+H^+\rightleftharpoons H_2S}
+$$
+
+Khi môi trường acid hơn, lượng $\mathrm{S^{2-}}$ tự do giảm.
+
+Vì vậy, khả năng tạo sulfide kết tủa không chỉ phụ thuộc “kim loại nào ít tan”, mà còn phụ thuộc **pH và cân bằng acid–base của sulfide**.
+
+Đây là một trong những ý tưởng nền cho phân tích ion bằng sulfide.
+
+---
+
+## 3. Phản ứng acid của sulfide
+
+Ở mức mô hình hóa phổ thông:
+
+$$
+\mathrm{MS+2H^+\rightarrow M^{2+}+H_2S}
+$$
+
+Phản ứng này giải thích tại sao sulfide có thể bị hòa tan trong môi trường acid.
+
+> **Lưu ý an toàn:** H$_2$S là khí độc; phương trình trên nên được xem như kiến thức hóa học, không phải hướng dẫn thực hành tạo khí.
+
+---
+
+# XIV. OXI HÓA – KHỬ GIỮA CÁC ION KIM LOẠI: KHÔNG CẦN KIM LOẠI ĐƠN CHẤT
+
+## 1. Fe$^{2+}$ và Fe$^{3+}$ tạo thành một cặp redox
+
+Ta có:
+
+$$
+\mathrm{Fe^{3+}+e\rightleftharpoons Fe^{2+}}
+$$
+
+Do đó, Fe có thể tham gia redox ngay cả khi không có Fe kim loại.
+
+---
+
+## 2. Fe$^{2+}$ bị oxi hóa bởi permanganate trong acid
+
+Phản ứng ion:
+
+$$
+\mathrm{MnO_4^-+5Fe^{2+}+8H^+\rightarrow Mn^{2+}+5Fe^{3+}+4H_2O}
+$$
+
+Ở đây:
+
+* Fe$^{2+}$ bị oxi hóa lên Fe$^{3+}$;
+* Mn trong permanganate bị khử từ $+7$ xuống $+2$.
+
+Không có Fe đơn chất nhưng vẫn là một phản ứng “có kim loại”.
+
+---
+
+## 3. Fe$^{2+}$ và dichromate
+
+$$
+\mathrm{Cr_2O_7^{2-}+6Fe^{2+}+14H^+
+\rightarrow2Cr^{3+}+6Fe^{3+}+7H_2O}
+$$
+
+Tư duy vẫn giống hệt mọi phản ứng redox khác:
+
+$$
+\boxed{\text{xác định chất nhường e}\rightarrow\text{xác định chất nhận e}\rightarrow\text{cân bằng e}}
+$$
+
+---
+
+## 4. Vì sao nhóm phản ứng này quan trọng?
+
+Nó cho thấy “hóa học của kim loại” không đồng nghĩa với “kim loại nguyên chất”.
+
+Ta có ít nhất ba thế giới:
+
+$$
+\boxed{\text{kim loại đơn chất}}
+$$
+
+$$
+\boxed{\text{ion kim loại trong dung dịch}}
+$$
+
+$$
+\boxed{\text{phức chất của ion kim loại}}
+$$
+
+Ba dạng này có thể liên kết với nhau qua chuỗi phản ứng.
+
+---
+
+# XV. CARBIDE CỦA KIM LOẠI + NƯỚC
+
+## 1. Calcium carbide
+
+Calcium carbide:
+
+$$
+\mathrm{CaC_2}
+$$
+
+có thể phản ứng với nước theo mô hình:
+
+$$
+\mathrm{CaC_2+2H_2O\rightarrow Ca(OH)_2+C_2H_2}
+$$
+
+$\mathrm{C_2H_2}$ là acetylene.
+
+Điểm đáng chú ý:
+
+> Một hợp chất “của kim loại” có thể là nguồn tạo ra một phân tử hữu cơ khi gặp nước.
+
+---
+
+## 2. Aluminum carbide
+
+$$
+\mathrm{Al_4C_3+12H_2O\rightarrow4Al(OH)_3+3CH_4}
+$$
+
+Ở đây carbide chứa carbon có thể tạo methane sau phản ứng thủy phân.
+
+---
+
+## 3. Ý tưởng chung
+
+Với một số carbide ion:
+
+$$
+\mathrm{C_x^{n-}+H_2O\rightarrow\text{hydrocarbon tương ứng + hydroxide kim loại}}
+$$
+
+Không nên áp dụng máy móc cho mọi carbide vì cấu trúc liên kết của các carbide khác nhau có thể rất khác nhau.
+
+---
+
+# XVI. NITRIDE CỦA KIM LOẠI + NƯỚC
+
+Một ví dụ:
+
+$$
+\mathrm{Mg_3N_2+6H_2O\rightarrow3Mg(OH)_2+2NH_3}
+$$
+
+Nitrogen trong nitride $\mathrm{N^{3-}}$ bị proton hóa bởi nước để tạo ammonia.
+
+Mô hình khái quát:
+
+$$
+\mathrm{N^{3-}+3H_2O\rightarrow NH_3+3OH^-}
+$$
+
+Sau đó cation kim loại kết hợp với $\mathrm{OH^-}$ tạo hydroxide.
+
+Đây là ví dụ cho thấy nước có thể vừa cung cấp proton, vừa tham gia sắp xếp sản phẩm ion.
+
+---
+
+# XVII. HYDRIDE KIM LOẠI + NƯỚC
+
+Một số hydride ion của kim loại có tính base rất mạnh.
+
+Ví dụ mô hình:
+
+$$
+\mathrm{NaH+H_2O\rightarrow NaOH+H_2}
+$$
+
+và
+
+$$
+\mathrm{CaH_2+2H_2O\rightarrow Ca(OH)_2+2H_2}
+$$
+
+Có thể nhìn phản ứng bằng hai bước ý tưởng:
+
+1. $\mathrm{H^-}$ nhận proton từ nước.
+2. Hai nguyên tử H tạo thành $\mathrm{H_2}$.
+
+Do đó ở đây, hydrogen trong hydride đóng vai trò rất khác với hydrogen của acid thông thường.
+
+---
+
+# XVIII. NHIỆT PHÂN HYDROXIDE KIM LOẠI
+
+Tài liệu gốc đã xét nhiệt phân nitrate và carbonate. Một nhóm còn thiếu tự nhiên là hydroxide.
+
+## 1. Cu(OH)$_2$
+
+$$
+\mathrm{Cu(OH)_2\xrightarrow{t^\circ}CuO+H_2O}
+$$
+
+Đây là phản ứng phân hủy do nhiệt.
+
+---
+
+## 2. Fe(OH)$_3$
+
+$$
+\mathrm{2Fe(OH)_3\xrightarrow{t^\circ}Fe_2O_3+3H_2O}
+$$
+
+---
+
+## 3. Al(OH)$_3$
+
+$$
+\mathrm{2Al(OH)_3\xrightarrow{t^\circ}Al_2O_3+3H_2O}
+$$
+
+Điều đáng chú ý là sản phẩm thường là **oxide bền hơn về nhiệt**.
+
+---
+
+## 4. Ý tưởng chung
+
+Nhiều hydroxide của kim loại có thể được xem như:
+
+$$
+\mathrm{M(OH)_n\xrightarrow{t^\circ}M\text{-}oxide + H_2O}
+$$
+
+nhưng không nên biến thành quy luật tuyệt đối cho mọi hydroxide và mọi điều kiện.
+
+---
+
+# XIX. MỘT SỐ MUỐI KHÁC: NHIỆT PHÂN NGOÀI NITRATE/CARBONATE
+
+## 1. Sulfate hydrate
+
+Một ví dụ rất quen thuộc là tinh thể CuSO$_4$·5H$_2$O mất nước khi đun nóng:
+
+$$
+\mathrm{CuSO_4\cdot5H_2O\xrightarrow{t^\circ}CuSO_4+5H_2O}
+$$
+
+Điểm quan trọng là đây trước hết là **tách nước kết tinh**, không phải một phản ứng redox.
+
+Sự thay đổi màu của tinh thể là một dấu hiệu trực quan rất hay để liên hệ giữa cấu trúc và hiện tượng.
+
+---
+
+## 2. Chlorate của kim loại kiềm
+
+Một ví dụ thường dùng trong hóa học phổ thông:
+
+$$
+\mathrm{2KClO_3\xrightarrow{t^\circ}2KCl+3O_2}
+$$
+
+Trong phản ứng này, oxygen trong chlorate bị khử và bị oxi hóa đồng thời trong mô tả redox tổng thể, đây là một ví dụ có tính chất **phân hủy nội phân tử kèm chuyển electron nội bộ**.
+
+> Khi gặp một muối mới, hãy xem: anion có thể tự phân hủy thành những trạng thái oxi hóa ổn định hơn không?
+
+---
+
+## 3. Permanganate của potassium
+
+Một phản ứng nhiệt phân quen thuộc khác:
+
+$$
+\mathrm{2KMnO_4\xrightarrow{t^\circ}K_2MnO_4+MnO_2+O_2}
+$$
+
+Mn trong $\mathrm{KMnO_4}$ bị khử từ $+7$ xuống hai mức thấp hơn ($+6$ và $+4$), trong khi một phần O bị oxi hóa từ $-2$ lên $0$; đây là một ví dụ của **phân hủy có oxi hóa – khử nội phân tử**, không nên nhầm với phản ứng disproportionation.
+
+---
+
+# XX. “PHẢN ỨNG NỐI TIẾP” KHÔNG CHỈ DÀNH CHO Fe + Ag$^+$
+
+## 1. Carbonate và CO$_2$
+
+$$
+\mathrm{Ca(OH)_2
+\xrightarrow{CO_2}
+CaCO_3
+\xrightarrow{CO_2+H_2O}
+Ca(HCO_3)_2}
+$$
+
+Kết quả quan sát phụ thuộc lượng CO$_2$.
+
+---
+
+## 2. Al(OH)$_3$ trong NaOH
+
+$$
+\mathrm{Al^{3+}
+\rightarrow Al(OH)_3
+\rightarrow[Al(OH)_4]^-}
+$$
+
+Nếu chỉ nhớ bước giữa, rất dễ dự đoán sai hiện tượng khi base dư.
+
+---
+
+## 3. AgCl trong ammonia
+
+$$
+\mathrm{Ag^+
+\rightarrow AgCl(s)
+\rightarrow[Ag(NH_3)_2]^+}
+$$
+
+Đây là một chuỗi được kéo đi bởi sự tạo phức.
+
+---
+
+## 4. Bài học thống nhất
+
+Một phương trình viết ra “đúng” chưa chắc đã là **trạng thái cuối cùng** của hệ.
+
+Hãy luôn hỏi:
+
+$$
+\boxed{\text{sản phẩm vừa tạo có tiếp tục phản ứng với chất còn dư không?}}
+$$
+
+---
+
+# XXI. CÁCH SUY LUẬN MỘT PHẢN ỨNG MỚI THUỘC NHÓM “HỢP CHẤT KIM LOẠI”
+
+Khi chưa nhớ phương trình cụ thể, có thể đi theo sơ đồ:
+
+$$
+\boxed{
+\begin{array}{c}
+\text{1. Chất ban đầu gồm những ion/nguyên tử nào?}\\
+\downarrow\\
+\text{2. Có thể tạo kết tủa, khí, nước hoặc phức không?}\\
+\downarrow\\
+\text{3. Có thay đổi số oxi hóa không?}\\
+\downarrow\\
+\text{4. Môi trường acid/base có kéo cân bằng không?}\\
+\downarrow\\
+\text{5. Sản phẩm đầu có tiếp tục phản ứng không?}\\
+\downarrow\\
+\text{6. Cuối cùng mới viết phương trình tổng}\
+\end{array}}
+$$
+
+Đặc biệt, hãy học cách nhận ra **bốn động lực** rất hay gặp:
+
+### A. Tạo kết tủa
+
+$$
+\mathrm{A^{m+}+B^{n-}\rightarrow A_xB_y(s)}
+$$
+
+### B. Tạo nước
+
+$$
+\mathrm{H^++OH^-\rightarrow H_2O}
+$$
+
+### C. Tạo khí
+
+Ví dụ các hệ carbonate/acid hoặc sulfide/acid.
+
+### D. Tạo phức bền
+
+$$
+\mathrm{M^{n+}+ligand\rightleftharpoons complex}
+$$
+
+Bốn động lực này có thể cạnh tranh nhau trong cùng một bài.
+
+---
+
+# XXII. BẢNG “NHÌN NHANH” CÁC KIỂU PHẢN ỨNG BỔ SUNG
+
+| Kiểu phản ứng               | Mô hình                                      | Ý tưởng cốt lõi       |
+| :-------------------------- | :------------------------------------------- | :-------------------- |
+| Đốt kim loại                | $\mathrm{M+O_2\rightarrow M_xO_y}$           | O$_2$ là chất oxi hóa |
+| Nung sulfide                | $\mathrm{MS_x+O_2\rightarrow MO+SO_2}$       | sulfide bị oxi hóa    |
+| Oxide + nước                | $\mathrm{M_2O+H_2O\rightarrow OH^-}$         | tạo hydroxide         |
+| Oxide + acid                | $\mathrm{MO+H^+\rightarrow M^{n+}+H_2O}$     | acid–base             |
+| Oxide lưỡng tính + base     | $\mathrm{MO+OH^-+H_2O\rightarrow complex}$   | tạo phức hydroxide    |
+| Cation + OH$^-$             | $\mathrm{M^{n+}+OH^-\rightarrow M(OH)_n(s)}$ | kết tủa               |
+| Hydroxide lưỡng tính + base | $\mathrm{M(OH)_n+OH^-\rightarrow complex}$   | hòa tan kết tủa       |
+| CO$_2$ + Ca(OH)$_2$         | $\mathrm{CaCO_3(s)}$                         | kết tủa carbonate     |
+| CO$_2$ dư                   | $\mathrm{CaCO_3\rightarrow Ca(HCO_3)_2}$     | phản ứng nối tiếp     |
+| Ag$^+$ + Cl$^-$             | $\mathrm{AgCl(s)}$                           | kết tủa halide        |
+| AgCl + NH$_3$               | $\mathrm{[Ag(NH_3)_2]^+}$                    | tạo phức              |
+| M$^{2+}$ + S$^{2-}$         | $\mathrm{MS(s)}$                             | sulfide ít tan        |
+| Fe$^{2+}$ + MnO$_4^-$       | Fe$^{2+}\rightarrow$ Fe$^{3+}$               | redox giữa các ion    |
+| Carbide + H$_2$O            | hydrocarbon + hydroxide                      | thủy phân carbide     |
+| Nitride + H$_2$O            | NH$_3$ + hydroxide                           | proton hóa nitride    |
+| Hydride + H$_2$O            | H$_2$ + hydroxide                            | H$^-$ nhận proton     |
+| Hydroxide nung              | oxide + H$_2$O                               | phân hủy nhiệt        |
+| Muối hydrate nung           | muối khan + H$_2$O                           | mất nước kết tinh     |
+| Chlorate/permanganate nung  | nhiều sản phẩm                               | phân hủy redox        |
+
+---
+
+# XXIII. NHỮNG NHẦM LẪN NÊN TRÁNH
+
+## 1. “Có kim loại thì chắc chắn là redox”
+
+Sai.
+
+Ví dụ:
+
+$$
+\mathrm{CuO+2HCl\rightarrow CuCl_2+H_2O}
+$$
+
+không cần thay đổi số oxi hóa.
+
+---
+
+## 2. “Tạo kết tủa là phản ứng oxi hóa – khử”
+
+Không nhất thiết.
+
+$$
+\mathrm{Ag^++Cl^-\rightarrow AgCl\downarrow}
+$$
+
+chỉ là quá trình tạo chất ít tan; số oxi hóa của Ag vẫn là $+1$.
+
+---
+
+## 3. “Kết tủa tạo ra thì sẽ tồn tại mãi”
+
+Không đúng.
+
+Kết tủa có thể tan lại vì:
+
+* acid;
+* base dư;
+* tạo phức;
+* phản ứng tiếp theo.
+
+---
+
+## 4. “CO$_2$ chỉ làm nước vôi trong đục”
+
+Chỉ đúng khi dừng ở giai đoạn tạo CaCO$_3$.
+
+CO$_2$ dư có thể làm kết tủa tan trở lại theo mô hình hydrogencarbonate.
+
+---
+
+## 5. “Sulfide luôn là S$^{2-}$”
+
+Không đúng khi phân tích mọi hợp chất sulfur.
+
+FeS$_2$ là ví dụ kinh điển vì sulfur tồn tại trong nhóm disulfide.
+
+---
+
+## 6. “Ion kim loại chỉ làm nhiệm vụ nhận electron”
+
+Không đúng.
+
+Fe$^{2+}$, Fe$^{3+}$, Cu$^+$, Cu$^{2+}$... có thể đóng vai trò chất oxi hóa hoặc chất khử tùy cặp redox mà chúng tham gia.
+
+---
+
+# XXIV. CÂU HỎI TỰ KIỂM TRA — ĐÁP ÁN ẨN
+
+Hãy thử tự dự đoán trước khi mở đáp án.
+
+---
+
+### Câu 1. FeS$_2$ và oxygen
+
+Trong phản ứng:
+
+$$
+\mathrm{4FeS_2+11O_2\rightarrow2Fe_2O_3+8SO_2}
+$$
+
+những nguyên tố nào bị oxi hóa?
+
+<details>
+<summary>Đáp án</summary>
+
+Fe: $+2\rightarrow+3$.
+
+S: $-1\rightarrow+4$.
+
+Cả Fe và S đều bị oxi hóa; O bị khử từ $0$ xuống $-2$.
+
+</details>
+
+---
+
+### Câu 2. Có phải mọi oxide kim loại đều tác dụng với nước?
+
+<details>
+<summary>Đáp án</summary>
+
+Không. Một số oxide của kim loại hoạt động có thể tạo hydroxide với nước, nhưng nhiều oxide khác không phản ứng đáng kể với nước ở điều kiện thường.
+
+</details>
+
+---
+
+### Câu 3. CuO + HCl có phải phản ứng redox?
+
+<details>
+<summary>Đáp án</summary>
+
+Không theo mô hình phổ thông: Cu vẫn $+2$, Cl vẫn $-1$. Đây chủ yếu là phản ứng acid–base tạo muối và nước.
+
+</details>
+
+---
+
+### Câu 4. Vì sao Al(OH)$_3$ có thể vừa tạo kết tủa vừa tan trong NaOH dư?
+
+<details>
+<summary>Đáp án</summary>
+
+Do Al(OH)$_3$ lưỡng tính. Ban đầu tạo kết tủa, sau đó OH$^-$ dư tạo phức tan:
+
+$$
+\mathrm{Al(OH)_3+OH^-\rightarrow[Al(OH)_4]^-}
+$$
+
+</details>
+
+---
+
+### Câu 5. Zn(OH)$_2$ có tính chất tương tự Al(OH)$_3$ ở điểm nào?
+
+<details>
+<summary>Đáp án</summary>
+
+Cả hai đều có tính lưỡng tính: có thể tan trong acid và trong base mạnh nhờ tạo dạng chứa hydroxide/phức phù hợp.
+
+</details>
+
+---
+
+### Câu 6. Cho CO$_2$ vào nước vôi trong đến dư. Vì sao có thể xảy ra “trong → đục → trong”?
+
+<details>
+<summary>Đáp án</summary>
+
+Ban đầu tạo CaCO$_3$ kết tủa:
+
+$$
+\mathrm{Ca(OH)_2+CO_2\rightarrow CaCO_3\downarrow+H_2O}
+$$
+
+Sau đó CO$_2$ dư tiếp tục phản ứng:
+
+$$
+\mathrm{CaCO_3+CO_2+H_2O\rightarrow Ca(HCO_3)_2}
+$$
+
+</details>
+
+---
+
+### Câu 7. Vì sao AgCl có thể tan khi thêm NH$_3$?
+
+<details>
+<summary>Đáp án</summary>
+
+NH$_3$ tạo phức bền với Ag$^+$:
+
+$$
+\mathrm{Ag^++2NH_3\rightleftharpoons[Ag(NH_3)_2]^+}
+$$
+
+Làm giảm Ag$^+$ tự do và kéo cân bằng hòa tan AgCl về phía tan.
+
+</details>
+
+---
+
+### Câu 8. Tạo phức có nhất thiết là redox không?
+
+<details>
+<summary>Đáp án</summary>
+
+Không. Trong phản ứng:
+
+$$
+\mathrm{Ag^++2NH_3\rightarrow[Ag(NH_3)_2]^+}
+$$
+
+Ag vẫn có số oxi hóa $+1$.
+
+</details>
+
+---
+
+### Câu 9. Vì sao dung dịch FeCl$_3$ có thể có tính acid?
+
+<details>
+<summary>Đáp án</summary>
+
+Fe$^{3+}$ có thể tương tác mạnh với nước, thúc đẩy quá trình thủy phân từng phần và tạo $\mathrm{H^+}$.
+
+</details>
+
+---
+
+### Câu 10. Fe$^{2+}$ có thể bị oxi hóa mà không cần Fe kim loại không?
+
+<details>
+<summary>Đáp án</summary>
+
+Có. Fe$^{2+}$ có thể bị oxi hóa lên Fe$^{3+}$ bởi một chất oxi hóa mạnh, ví dụ permanganate trong môi trường acid.
+
+</details>
+
+---
+
+### Câu 11. Trong Fe + O$_2$, tại sao có thể gặp Fe$_3$O$_4$ hoặc Fe$_2$O$_3$?
+
+<details>
+<summary>Đáp án</summary>
+
+Vì các trạng thái Fe(II) và Fe(III) đều có thể xuất hiện, và sản phẩm cuối cùng phụ thuộc điều kiện phản ứng cũng như khả năng oxi hóa tiếp.
+
+</details>
+
+---
+
+### Câu 12. So sánh FeS và FeS$_2$
+
+Tại sao không nên mặc định sulfur có cùng số oxi hóa trong hai chất?
+
+<details>
+<summary>Đáp án</summary>
+
+Trong FeS, sulfur có thể xem là $-2$.
+
+Trong FeS$_2$, nhóm $\mathrm{S_2^{2-}}$ khiến mỗi S có mức trung bình $-1$.
+
+</details>
+
+---
+
+### Câu 13. Viết phản ứng tạo hydroxide của Fe$^{3+}$.
+
+<details>
+<summary>Đáp án</summary>
+
+$$
+\mathrm{Fe^{3+}+3OH^-\rightarrow Fe(OH)_3\downarrow}
+$$
+
+</details>
+
+---
+
+### Câu 14. Phân biệt hai quá trình:
+
+$$
+\mathrm{Ag^++Cl^-\rightarrow AgCl}
+$$
+
+và
+
+$$
+\mathrm{Fe^{2+}\rightarrow Fe^{3+}+e}
+$$
+
+<details>
+<summary>Đáp án</summary>
+
+Phản ứng đầu chủ yếu là tạo kết tủa, không đổi số oxi hóa.
+
+Phản ứng sau là oxi hóa, có chuyển electron.
+
+</details>
+
+---
+
+### Câu 15. Carbide + nước cho sản phẩm kiểu gì?
+
+<details>
+<summary>Đáp án</summary>
+
+Một số carbide ion bị thủy phân, tạo hydroxide kim loại và hydrocarbon tương ứng. Ví dụ:
+
+$$
+\mathrm{CaC_2+2H_2O\rightarrow Ca(OH)_2+C_2H_2}
+$$
+
+</details>
+
+---
+
+### Câu 16. Nitride + nước cho sản phẩm gì trong ví dụ Mg$_3$N$_2$?
+
+<details>
+<summary>Đáp án</summary>
+
+$$
+\mathrm{Mg_3N_2+6H_2O\rightarrow3Mg(OH)_2+2NH_3}
+$$
+
+Nitride bị proton hóa bởi nước để tạo ammonia.
+
+</details>
+
+---
+
+### Câu 17. Hydride NaH phản ứng với nước khác HCl + NaOH ở điểm nào?
+
+<details>
+<summary>Đáp án</summary>
+
+Trong NaH, hydrogen có dạng hydride $\mathrm{H^-}$ và nhận proton từ nước, tạo H$_2$.
+
+Vì vậy bản chất không phải “acid giải phóng H$^+$” như HCl.
+
+</details>
+
+---
+
+### Câu 18. Có thể dùng “dãy điện hóa” một mình để dự đoán AgCl tan trong NH$_3$ không?
+
+<details>
+<summary>Đáp án</summary>
+
+Không. Đây chủ yếu là bài toán cân bằng độ tan và tạo phức, không phải bài toán đẩy kim loại theo dãy điện hóa.
+
+</details>
+
+---
+
+### Câu 19. Tại sao cùng một ion kim loại có thể cho hiện tượng khác nhau khi thay đổi ligand?
+
+<details>
+<summary>Đáp án</summary>
+
+Ligand có thể tạo phức với kim loại và thay đổi phân bố các dạng tồn tại trong dung dịch. Điều này có thể làm thay đổi màu sắc, độ tan và cân bằng phản ứng.
+
+</details>
+
+---
+
+### Câu 20. Nêu năm câu hỏi nên đặt trước khi viết phương trình của một phản ứng mới.
+
+<details>
+<summary>Đáp án</summary>
+
+Một cách trả lời tốt:
+
+1. Có ion/chất nào có thể tạo kết tủa không?
+2. Có thể tạo khí hoặc nước không?
+3. Có thay đổi số oxi hóa không?
+4. Có tạo phức hoặc phản ứng acid–base kéo cân bằng không?
+5. Sản phẩm đầu tiên có tiếp tục phản ứng với chất dư không?
+
+</details>
+
+---
+
+# XXV. BÀI TẬP SUY LUẬN MỞ RỘNG
+
+## Bài 1. Chuỗi của FeS$_2$
+
+Cho biết FeS$_2$ được nung trong oxygen và tạo Fe$_2$O$_3$, SO$_2$.
+
+1. Xác định số oxi hóa của Fe và S trong FeS$_2$ theo mô hình disulfide.
+2. Xác định chất oxi hóa và chất khử.
+3. Viết phương trình cân bằng.
+
+---
+
+## Bài 2. Chuỗi carbonate
+
+Mô tả bằng phương trình và lời giải thích hiện tượng khi CO$_2$ lần lượt được đưa vào dung dịch Ca(OH)$_2$ với lượng tăng dần.
+
+Yêu cầu không học thuộc hiện tượng mà phải giải thích bằng **hai phản ứng nối tiếp**.
+
+---
+
+## Bài 3. Al(OH)$_3$
+
+Một dung dịch chứa Al$^{3+}$ được cho OH$^-$ từ từ đến dư.
+
+Hãy mô tả sự thay đổi của hệ theo chuỗi:
+
+$$
+\mathrm{Al^{3+}\rightarrow Al(OH)_3\rightarrow[Al(OH)_4]^-}
+$$
+
+Giải thích vì sao có thể xuất hiện cực đại lượng kết tủa ở giữa quá trình.
+
+---
+
+## Bài 4. AgCl và ammonia
+
+Một hệ chứa Ag$^+$ và Cl$^-$ tạo AgCl.
+
+Sau đó thêm NH$_3$.
+
+Giải thích bằng sự thay đổi nồng độ Ag$^+$ tự do vì sao cân bằng có thể dịch chuyển.
+
+---
+
+## Bài 5. Redox không có kim loại đơn chất
+
+Hãy chỉ ra chất oxi hóa, chất khử trong:
+
+$$
+\mathrm{MnO_4^-+5Fe^{2+}+8H^+\rightarrow Mn^{2+}+5Fe^{3+}+4H_2O}
+$$
+
+Sau đó nêu điểm giống và khác giữa phản ứng này với:
+
+$$
+\mathrm{Fe+2Ag^+\rightarrow Fe^{2+}+2Ag}
+$$
+
+---
+
+## Bài 6. Phản ứng nào thuộc loại nào?
+
+Phân loại các phản ứng sau vào một hoặc nhiều nhóm:
+
+$$
+\mathrm{CuO+2HCl\rightarrow CuCl_2+H_2O}
+$$
+
+$$
+\mathrm{Ag^++Cl^-\rightarrow AgCl\downarrow}
+$$
+
+$$
+\mathrm{Fe^{2+}\rightarrow Fe^{3+}+e}
+$$
+
+$$
+\mathrm{Ag^++2NH_3\rightleftharpoons[Ag(NH_3)_2]^+}
+$$
+
+Yêu cầu: giải thích **vì sao** chứ không chỉ ghi tên.
+
+---
+
+# XXVI. CHỐT LẠI: MỘT “BẢN ĐỒ” KHÁC CỦA HÓA HỌC KIM LOẠI
+
+Nếu tài liệu gốc tập trung vào câu hỏi:
+
+> **“Kim loại nhường electron cho ai?”**
+
+thì tài liệu bổ sung này mở rộng sang bốn câu hỏi khác:
+
+$$
+\boxed{\text{1. Sản phẩm có kết tủa không?}}
+$$
+
+$$
+\boxed{\text{2. Ion kim loại có tạo phức không?}}
+$$
+
+$$
+\boxed{\text{3. Môi trường có làm thay đổi dạng tồn tại không?}}
+$$
+
+$$
+\boxed{\text{4. Sản phẩm đầu tiên có tiếp tục phản ứng không?}}
+$$
+
+Từ đó có thể hình dung hóa học của kim loại theo nhiều “tầng”:
+
+$$
+\boxed{
+\text{kim loại}
+\leftrightarrow
+\text{ion}
+\leftrightarrow
+\text{oxide/hydroxide}
+\leftrightarrow
+\text{kết tủa}
+\leftrightarrow
+\text{phức}
+}
+$$
+
+và một tầng khác:
+
+$$
+\boxed{
+\text{oxide/sulfide/carbonate}
+\leftrightarrow
+\text{nhiệt phân / nung / oxi hóa}
+}
+$$
+
+Điểm quan trọng nhất không phải là nhớ thêm một danh sách phản ứng dài hơn, mà là nhận ra **loại biến đổi đang diễn ra**.
+
+Khi đã nhận ra loại biến đổi, phương trình cụ thể thường trở nên dễ suy ra hơn rất nhiều.
+
+---
+
+## GHI CHÚ VỀ PHẠM VI
+
+Tài liệu này được xây dựng như **một phần bổ sung độc lập**, sau khi đối chiếu với tài liệu gốc `metal_full_adjusted_gpt.md`. Một số công thức quen thuộc được nhắc lại khi chúng là mắt xích cần thiết để giải thích một **loại phản ứng mới**; mục tiêu không phải sao chép lại toàn bộ nội dung của tài liệu gốc.
